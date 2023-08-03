@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-I'm Sahil. Cuurently I'm Working on DSA with Java, Dev & DevOps 🙋‍♂️
+I'm Sahil. Cuurently I'm Working on DSA with Java, Dev & Python 🙋‍♂️
 
 📫How to reach me:
 
