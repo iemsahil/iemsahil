@@ -1,6 +1,6 @@
 # Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### I'm Md Sahil. Cuurently Working on DSA with Java, Dev & Python 🙋‍♂️
+### I'm Md Sahil, Currently working on DSA with Java, Dev & Python. 🙋‍♂️
 
 📫How to reach me:
 
